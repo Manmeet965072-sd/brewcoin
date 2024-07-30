@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+    {
+      "appID": "6FXUMT5X23.com.app.blockbrew",
+      "paths": ["/*"]
+    }
+    ]
+  }
+}
